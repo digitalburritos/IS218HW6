@@ -1,0 +1,6 @@
+2024-10-16 12:00:24,462 - root - INFO - Calculator started.
+2024-10-16 12:00:28,688 - root - INFO - Executed command: add with args: [1.0, 2.0], result: 3.0
+2024-10-16 12:00:40,648 - root - WARNING - Unknown command: divid
+2024-10-16 12:00:45,556 - root - ERROR - ZeroDivisionError: Division by zero attempted.
+2024-10-16 12:01:05,216 - root - INFO - Executed command: multiply with args: [1.0, 23.0], result: 23.0
+2024-10-16 12:01:22,074 - root - INFO - Calculator exited.
