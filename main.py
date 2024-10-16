@@ -12,6 +12,8 @@ def main():
 
     while True:
         try:
+            print("*\nWelcome to the Calculator!")
+            print("Commands: add <num1> <num2>, subtract <num1> <num2>, multiply <num1> <num2>, divide <num1> <num2>")
             user_input = input("Enter command (or 'exit' to quit): ")
             if user_input.lower() == "exit":
                 break
@@ -31,6 +33,8 @@ def main():
             print(e)
         except Exception as e:
             print(f"An error occurred: {e}")
+        
+        print()
 
 if __name__ == "__main__":
     main()
