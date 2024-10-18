@@ -4,3 +4,13 @@
 2024-10-16 12:00:45,556 - root - ERROR - ZeroDivisionError: Division by zero attempted.
 2024-10-16 12:01:05,216 - root - INFO - Executed command: multiply with args: [1.0, 23.0], result: 23.0
 2024-10-16 12:01:22,074 - root - INFO - Calculator exited.
+2024-10-16 12:08:18,154 - root - INFO - Calculator started.
+2024-10-16 12:08:20,106 - root - WARNING - Unknown command: s
+2024-10-16 12:08:25,120 - root - INFO - Executed command: add with args: [1.0, 2.0], result: 3.0
+2024-10-16 12:08:28,579 - root - INFO - Calculator exited.
+2024-10-18 08:59:38,500 - root - INFO - Calculator started.
+2024-10-18 08:59:45,490 - root - INFO - Executed command: add with args: [1.0, 2.0], result: 3.0
+2024-10-18 09:24:12,443 - root - INFO - Calculator exited.
+2024-10-18 09:42:18,546 - root - INFO - Calculator started.
+2024-10-18 09:42:28,838 - root - ERROR - Unexpected error: MultiplyCommand.execute() takes 3 positional arguments but 4 were given
+2024-10-18 09:45:12,355 - root - INFO - Calculator exited.
